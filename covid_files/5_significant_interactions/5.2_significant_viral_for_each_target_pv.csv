@@ -1,0 +1,220 @@
+IFI6,[]
+IFI27,[]
+IFITM1,[]
+MX1,['orf9c']
+RN7SK,"['e', 'nsp8']"
+ARC,['nsp12']
+DKK1,"['nsp4', 'orf8', 'orf9c']"
+MT1G,['nsp4']
+SAMD9,"['nsp15', 'nsp5_c145a']"
+IFIT3,"['n', 'nsp15']"
+IFIT2,['n']
+NKX3-1,[]
+HSPA6,[]
+IFIT1,"['n', 'nsp10', 'nsp15']"
+IFI44L,"['orf8', 'orf9b']"
+RSAD2,"['nsp1', 'nsp11', 'nsp13', 'orf9b']"
+ISG15,"['m', 'nsp10', 'nsp11', 'nsp12', 'nsp6', 'nsp7', 'nsp8']"
+OAS2,[]
+CXCL11,['nsp4']
+IFI44,"['nsp11', 'nsp4', 'nsp5_c145a', 'orf3b', 'orf8']"
+CXCL10,['nsp4']
+SLC34A2,"['m', 'nsp6']"
+IFNλ,"['spike', 'nsp11', 'nsp13', 'nsp4', 'nsp7', 'orf9c']"
+IFN b1,['nsp10']
+IFNL2,[]
+CCR1,"['spike', 'nsp15', 'nsp4', 'orf9c']"
+CCR8,"['nsp10', 'nsp2', 'orf9c']"
+IL16,[]
+IL3,"['nsp10', 'nsp11', 'nsp7', 'orf8', 'orf9b']"
+CCR2,"['orf6', 'orf7a']"
+CCR5,"['nsp4', 'orf3a']"
+IL5,"['spike', 'nsp10', 'orf8']"
+Megalin,"['nsp10', 'nsp14', 'nsp7', 'nsp9', 'orf3a']"
+SLC22A12,"['spike', 'nsp6', 'nsp7', 'orf9b', 'orf9c']"
+SLC34A1 ,"['nsp11', 'nsp15', 'nsp7', 'orf9b']"
+SLC34A3 ,[]
+  SLC6A19 ,"['e', 'nsp10', 'nsp13', 'nsp14', 'nsp15', 'nsp4', 'nsp5', 'nsp6', 'nsp7', 'nsp9', 'orf10', 'orf3a', 'orf3b', 'orf8', 'orf9b']"
+ EAAT3,"['spike', 'nsp6', 'nsp7', 'orf3b', 'orf9c']"
+PAT2,"['n', 'spike', 'nsp1', 'nsp11', 'nsp12', 'nsp13', 'nsp14', 'nsp15', 'nsp6', 'nsp7', 'nsp8', 'nsp9', 'orf10', 'orf3a', 'orf3b', 'orf7a', 'orf9b']"
+SIT1,[]
+ ASCT2,"['spike', 'nsp6', 'nsp7', 'orf3a', 'orf3b', 'orf8']"
+SNAT3,"['orf6', 'orf9c']"
+ TAT1,"['nsp14', 'nsp4', 'orf6', 'orf9c']"
+TMEM27 ,[]
+ SLC7A9 ,[]
+SLC3A1 ,['nsp7']
+ OAT1,"['nsp4', 'orf9c']"
+OAT3,[]
+ OAT4,"['n', 'orf9c']"
+ GLUT9,"['m', 'spike', 'nsp11', 'nsp15', 'nsp2', 'nsp6', 'nsp7', 'orf3b', 'orf8', 'orf9c']"
+ABCG2,"['spike', 'nsp6', 'nsp7', 'orf3a', 'orf3b', 'orf9b']"
+ NPT1,[]
+ATP2A2,"['m', 'nsp2', 'nsp6', 'nsp7', 'orf3b', 'orf6', 'orf7a', 'orf9c']"
+ENO3,"['nsp11', 'nsp13', 'nsp4', 'orf3b', 'orf6', 'orf9b']"
+ACTB,"['m', 'spike', 'nsp5', 'nsp7', 'orf10', 'orf3b', 'orf9c']"
+TPM2,[]
+TPM4,"['nsp11', 'nsp6', 'orf3b']"
+CALM3,"['nsp11', 'nsp13', 'nsp7']"
+TPM1,"['spike', 'nsp11', 'nsp13', 'orf3b']"
+CALM2,"['nsp11', 'nsp13', 'nsp7']"
+MYL9,['e']
+MYL6,"['nsp11', 'nsp13', 'nsp15', 'orf10', 'orf3b']"
+TNNC1,['orf9b']
+CKM,"['e', 'orf10', 'orf6', 'orf9b']"
+MYH11,"['nsp11', 'nsp14', 'orf3b']"
+MYLK,['e']
+MYL4,"['n', 'nsp10']"
+TNNI1,[]
+TPM3,"['nsp11', 'nsp6', 'orf6']"
+MYH6,"['nsp14', 'orf9c']"
+TNNI3,"['nsp10', 'nsp11', 'nsp13', 'nsp15', 'orf3a', 'orf9b']"
+CAPZB,"['nsp11', 'nsp5_c145a', 'orf9b']"
+ACTC1,['nsp1']
+MYOM2,[]
+TMOD1,"['spike', 'orf6']"
+TTN,['orf3a']
+MYH8,['e']
+MYO1G,"['nsp15', 'nsp2', 'nsp6', 'nsp7', 'orf3b']"
+TRIM63,[]
+TNNT3,"['nsp10', 'nsp13']"
+NEB,"['e', 'nsp1']"
+MYL3,[]
+OBSCN,"['nsp6', 'nsp9', 'orf3a']"
+MYH2,['spike']
+MYO7A,['orf3b']
+MYO3A,[]
+MYH7,[]
+MYH15,"['nsp7', 'orf8', 'orf9c']"
+MYO3B,"['m', 'nsp10', 'nsp5_c145a']"
+MYO15A,['nsp13']
+MYLK2,"['nsp1', 'nsp4', 'orf7a']"
+MYO7B,['m']
+MYO1A,['nsp9']
+MYH4,[]
+MYH1,[]
+MYH13,['nsp5']
+MYO1F,['orf8']
+"IKKβ,","['nsp12', 'nsp13', 'orf9b']"
+TNF‐α,"['nsp12', 'orf8']"
+IL‐1β,['orf8']
+ IL‐2,"['m', 'spike', 'nsp11', 'nsp12', 'nsp2', 'nsp7', 'orf10', 'orf8', 'orf9c']"
+IL‐6 ,"['nsp11', 'nsp14', 'nsp5', 'nsp6', 'nsp9', 'orf10', 'orf8', 'orf9b']"
+IL‐8 ,[]
+IL‐12,"['nsp11', 'nsp15', 'nsp8', 'orf8']"
+IL‐13,"['m', 'spike', 'nsp10', 'nsp11', 'nsp12', 'nsp13', 'nsp2', 'nsp4', 'nsp6', 'nsp7', 'orf3a', 'orf3b', 'orf7a', 'orf8', 'orf9c']"
+IL‐33,"['e', 'nsp10', 'nsp5', 'orf8', 'orf9b']"
+IL‐4,"['m', 'spike', 'nsp10', 'nsp2', 'nsp4', 'nsp6', 'nsp7', 'orf10', 'orf8', 'orf9b', 'orf9c']"
+IL‐10,"['spike', 'orf8', 'orf9c']"
+IL‐17,"['spike', 'nsp12', 'orf8', 'orf9c']"
+IL‐22,"['spike', 'orf9c']"
+HK2*,"['nsp1', 'nsp11', 'nsp6', 'orf6', 'orf8', 'orf9b']"
+GPI,"['nsp11', 'nsp14', 'orf3b']"
+PFKP,"['nsp11', 'nsp14', 'nsp15', 'nsp5_c145a', 'orf7a']"
+ENO2*,"['nsp11', 'nsp14', 'nsp15', 'nsp4', 'nsp5_c145a', 'nsp7', 'orf10']"
+PKM*,"['nsp11', 'nsp5', 'nsp7', 'orf7a', 'orf9b']"
+LDHA,"['m', 'nsp11', 'nsp14', 'nsp4', 'nsp7', 'orf10', 'orf3b']"
+ALDOA,"['nsp11', 'nsp5_c145a', 'orf3b', 'orf6']"
+PGK1,"['nsp11', 'nsp14', 'nsp5_c145a', 'orf3b', 'orf6']"
+BPGM*,['nsp15']
+PGD,"['m', 'nsp11', 'nsp14', 'nsp15', 'nsp4', 'nsp5_c145a', 'nsp9', 'orf3b', 'orf6', 'orf9b']"
+PGLS,"['nsp10', 'nsp11', 'nsp15', 'nsp4', 'nsp5_c145a']"
+RBKS,"['nsp11', 'nsp13', 'nsp15', 'nsp4', 'orf3a']"
+DNAJC15*,['nsp7']
+ATP1A1*,"['m', 'nsp11', 'nsp6', 'nsp7', 'orf10', 'orf3b', 'orf6']"
+UQCRB,"['m', 'spike', 'nsp11', 'nsp2', 'nsp4', 'nsp5_c145a', 'nsp6', 'nsp7', 'orf3b', 'orf6']"
+IDH1*,"['nsp10', 'nsp11', 'nsp14', 'nsp15', 'nsp4', 'nsp5_c145a', 'orf3b', 'orf6']"
+CDK1*,"['nsp1', 'orf3b']"
+ZDHHC14,[]
+IFITM3*,"['nsp6', 'orf3b']"
+ACAA1,"['spike', 'nsp11', 'nsp12', 'nsp14', 'nsp15', 'nsp5_c145a', 'nsp6', 'orf3b']"
+HMGCS1*,['nsp13']
+ACAT2,"['n', 'nsp10', 'nsp11', 'nsp14', 'nsp15', 'nsp4', 'nsp5_c145a', 'nsp6', 'orf3b', 'orf6', 'orf7a', 'orf9b']"
+BCKDK,"['nsp14', 'nsp6', 'orf7a']"
+MVD,"['nsp10', 'nsp11', 'nsp14', 'nsp2', 'nsp4', 'orf3b', 'orf9b']"
+FDFT1,"['nsp6', 'nsp7', 'orf3a', 'orf3b']"
+SQLE*,"['m', 'nsp4', 'nsp6', 'orf9c']"
+DGAT1,"['m', 'spike', 'nsp6', 'orf3a', 'orf9c']"
+MTTP,"['nsp7', 'orf8']"
+NFKB1*,"['nsp13', 'nsp5']"
+JUN,"['e', 'm', 'n', 'nsp1', 'nsp10', 'nsp12', 'nsp13', 'nsp15', 'nsp4', 'nsp5', 'nsp7', 'nsp8', 'nsp9', 'orf10', 'orf3b', 'orf6', 'orf7a', 'orf9b']"
+FOXO1*,"['nsp1', 'nsp11', 'nsp14', 'nsp15', 'nsp2', 'nsp5']"
+GCLC*,"['nsp14', 'nsp15', 'nsp9', 'orf9b']"
+HMOX2*,"['m', 'nsp2', 'nsp4', 'nsp6', 'nsp7', 'orf3b', 'orf9c']"
+SOD2,"['m', 'nsp11', 'nsp14', 'nsp15', 'nsp5_c145a', 'nsp6', 'orf3b', 'orf6', 'orf8']"
+ERN1,"['nsp10', 'nsp11', 'nsp4', 'nsp5_c145a', 'nsp6', 'nsp9', 'orf3a', 'orf8', 'orf9b', 'orf9c']"
+EIF2AK2,['n']
+ATF4,['nsp9']
+CEBPB,[]
+DNAJB9,"['nsp11', 'orf7a', 'orf9c']"
+CD80,"['e', 'm', 'spike', 'nsp10', 'nsp11', 'nsp15', 'nsp7', 'orf3a', 'orf6', 'orf7a', 'orf8', 'orf9b', 'orf9c']"
+CD86 ,"['nsp10', 'nsp7']"
+INFalpha ,[]
+IL-7 ,"['m', 'orf10', 'orf9c']"
+CTLA-4 ,"['nsp10', 'nsp15', 'nsp7', 'orf9b']"
+PD-1 ,"['m', 'spike', 'nsp15', 'nsp4', 'orf6', 'orf9c']"
+Ki67 ,"['n', 'nsp5', 'nsp7', 'nsp8', 'orf3a', 'orf3b', 'orf7a']"
+CD64   ,[]
+CD66b ,"['m', 'spike', 'nsp10']"
+CRP,['orf8']
+ferritin l,[]
+ferritin h,['nsp4']
+FAS ,"['nsp11', 'nsp2', 'nsp4', 'nsp7', 'orf3a', 'orf6', 'orf7a', 'orf9c']"
+ACE2 ,"['e', 'nsp10', 'nsp12', 'nsp15', 'nsp2', 'nsp4', 'nsp6', 'orf10', 'orf7a', 'orf8', 'orf9b', 'orf9c']"
+ITGAM  cd1b,['nsp11']
+CD14,['nsp5']
+FCGR3Acd16,['nsp10']
+CD68,"['m', 'orf6', 'orf7a']"
+CD163,['n']
+MRC1 cd206,['orf8']
+CXCL2 ,"['nsp4', 'nsp9']"
+GDF11,"['nsp1', 'nsp5_c145a', 'orf8']"
+NOG,"['spike', 'nsp5_c145a', 'orf3a', 'orf8', 'orf9c']"
+TNFSF10,"['spike', 'nsp11', 'nsp12', 'nsp14', 'nsp15', 'orf10', 'orf3a', 'orf9b']"
+NRG1,"['spike', 'nsp11', 'nsp15', 'nsp4', 'nsp6', 'orf3a', 'orf6', 'orf7a', 'orf8', 'orf9c']"
+TIMP1,"['nsp10', 'nsp6', 'nsp9', 'orf8']"
+C5,"['nsp11', 'nsp4', 'orf9c']"
+IL18,"['nsp2', 'orf7a']"
+AREG,"['e', 'nsp12', 'nsp6']"
+CCL4,"['spike', 'nsp4', 'orf9c']"
+CMTM2,"['orf3a', 'orf9c']"
+CTSL,['nsp14']
+CTSB,"['m', 'nsp11', 'nsp4', 'nsp5_c145a', 'nsp6', 'orf9b']"
+DDIT4,['orf9b']
+RRAS,"['m', 'nsp2']"
+CTSD,"['m', 'nsp11', 'nsp14', 'nsp2', 'nsp4', 'nsp5_c145a', 'nsp6', 'nsp7', 'orf10', 'orf6', 'orf8']"
+BIRC5,"['nsp14', 'nsp15']"
+CTSZ,[]
+NTRK1,[]
+IGFBP3,"['nsp1', 'nsp14', 'nsp15', 'nsp4', 'orf8', 'orf9b']"
+CCNB1,"['nsp1', 'nsp11', 'nsp13']"
+RRM2,"['nsp1', 'orf6']"
+CCNB2,"['nsp1', 'nsp10', 'nsp11', 'nsp13', 'nsp14', 'nsp15', 'nsp2', 'orf8', 'orf9b']"
+GTSE1,"['nsp10', 'nsp12', 'nsp13']"
+STEAP3,"['spike', 'nsp4', 'nsp6', 'orf3a', 'orf7a']"
+TP53I3,[]
+TGFB2,"['e', 'nsp4', 'nsp9', 'orf6', 'orf8', 'orf9b']"
+CCL3L1,"['spike', 'nsp4']"
+CXCL6,"['nsp4', 'nsp9']"
+CCL8,"['nsp4', 'nsp9']"
+SCGB3A1,[]
+CCL2,"['nsp4', 'nsp9']"
+CXCL1,['orf10']
+GRN,"['nsp1', 'nsp11']"
+CXCL16,[]
+CCL3,"['m', 'nsp4', 'nsp7', 'orf9c']"
+CCL7,"['spike', 'orf8']"
+CXCL9 ,['orf9c']
+UNC13A,"['n', 'orf6']"
+RAB27A,['nsp7']
+RAB3A,"['nsp1', 'nsp10', 'nsp11', 'nsp15', 'nsp7', 'orf6', 'orf9c']"
+RIMS1,"['nsp7', 'orf9b']"
+RPH3A,['nsp7']
+SNAP25,"['spike', 'nsp10', 'nsp11', 'nsp15', 'nsp2', 'nsp4', 'nsp6', 'orf3a', 'orf9b']"
+SNCA,"['nsp11', 'nsp5_c145a', 'nsp6', 'nsp7', 'orf3b', 'orf8']"
+STX1A,['orf3a']
+STXBP1,"['nsp10', 'nsp11', 'nsp15', 'nsp2', 'nsp4', 'orf3a']"
+STXBP5,"['e', 'spike', 'nsp2', 'nsp6', 'orf3a', 'orf9b', 'orf9c']"
+Syp,['nsp11']
+Tau,"['n', 'nsp1', 'nsp10', 'nsp13', 'nsp7', 'nsp8', 'orf10', 'orf7a', 'orf9b']"
+Caspase 3,"['nsp11', 'nsp12', 'nsp13', 'nsp14', 'nsp15', 'nsp4', 'nsp5_c145a', 'orf3a']"

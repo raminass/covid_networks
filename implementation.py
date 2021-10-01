@@ -276,6 +276,7 @@ for index, row in ongoing_data.iterrows():
 ongoing_data["pvalue_random_source_same_degree"] = viral_p_values
 ongoing_data["adjusted_pvalue_random_source_same_degree"] = sm.stats.multipletests(
     ongoing_data["pvalue_random_source_same_degree"], alpha=0.05, method="fdr_bh", is_sorted=False)[1]
+
 # %%
 # calculate score by target
 for tar_id, name in zip(target, target_names):

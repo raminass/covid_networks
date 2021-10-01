@@ -1,0 +1,27 @@
+e,['JUN']
+m,"['LDHA', 'ATP1A1*', 'JUN', 'HMOX2*', 'SOD2']"
+n,"['JUN', 'EIF2AK2']"
+spike,"['ACAA1', 'DGAT1']"
+nsp1,[]
+nsp10,['JUN']
+nsp11,"['ENO2*', 'PKM*', 'PGK1', 'UQCRB', 'SOD2']"
+nsp12,['JUN']
+nsp13,"['NFKB1*', 'JUN']"
+nsp14,"['PGD', 'MVD']"
+nsp15,"['PFKP', 'BPGM*', 'PGD']"
+nsp2,['HMOX2*']
+nsp4,"['PGD', 'UQCRB', 'MVD']"
+nsp5,"['PKM*', 'JUN']"
+nsp5_c145a,['IDH1*']
+nsp6,"['IFITM3*', 'BCKDK']"
+nsp7,"['LDHA', 'ATP1A1*', 'MTTP', 'JUN', 'HMOX2*']"
+nsp8,['JUN']
+nsp9,[]
+orf10,"['ATP1A1*', 'JUN']"
+orf3a,['ERN1']
+orf3b,"['UQCRB', 'JUN']"
+orf6,"['HK2*', 'ATP1A1*', 'UQCRB', 'JUN']"
+orf7a,[]
+orf8,[]
+orf9b,"['PKM*', 'JUN', 'GCLC*']"
+orf9c,[]
